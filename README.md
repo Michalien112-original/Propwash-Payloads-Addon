@@ -6,7 +6,7 @@ Strap a charge under your FPV drone, dive, and make it count.
 
 ## About
 
-Payloads is an add-on for [Propwash FPV](https://github.com/LardTom/propwash-fpv) that turns your quads into strike drones, and gives everyone on the ground ways to fight back: AA turrets, signal jammers and (soon with TaCZ) actual guns.
+Payloads is an add-on for [Propwash FPV](https://github.com/LardTom/propwash-fpv) that turns your quads into strike drones, and gives everyone on the ground ways to fight back: AA turrets, signal jammers and with TaCZ actual guns.
 
 Requires Propwash FPV 0.5.0 · Minecraft 26.3 · Fabric · Java 25. Install on the server and every client.
 
